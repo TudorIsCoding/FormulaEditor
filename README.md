@@ -1,5 +1,5 @@
 # FormulaEditor
-The FormulaEditor app is a user-friendly application designed to assist users in creating complex mathematical formulas and equations effortlessly.
+The FormulaEditor app is a user-friendly application designed to assist users in creating complex mathematical formulas and equations effortlessly made in C++, using SFML.
 
 ### Mathematical Operators and Symbols
 The Formula Editor supports a wide range of mathematical operators and symbols, including:
@@ -17,3 +17,7 @@ The Formula Editor supports a wide range of mathematical operators and symbols, 
 ### Variables and Constants
 You can use variables and constants in your formulas:
 - Variables: Use any alphanumeric identifier (e.g., `x`, `y`, `z`)
+
+### Pictures
+
+![EXAMPLE IMAGE](assets/pictures/sum.png)
